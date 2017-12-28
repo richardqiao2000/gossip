@@ -1,0 +1,6 @@
+bin
+.hg
+.idea
+*.iml
+.classpath
+.git
